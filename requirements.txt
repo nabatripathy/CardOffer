@@ -1,0 +1,10 @@
+duckdb>=1.1
+faker>=30.0
+numpy>=2.0
+pandas>=2.2
+pytest>=8.0
+# Phase 2+ (not needed yet)
+# chromadb
+# langgraph
+# langchain
+# mcp
